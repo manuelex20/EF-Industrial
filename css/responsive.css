@@ -1,0 +1,1562 @@
+/*Responsive*/
+
+@media (max-width: 1420px) {
+
+	.about1,
+	.about2,
+	.about3,
+	.about4,
+	.about5,
+	.about6 {
+		width: 610px;
+	}
+
+	.imagen_about1 {
+		top: 22%;
+		height: 50%;
+	}
+
+	.worker2 {
+		left: 24%;
+		height: 60%;
+	}
+
+	.imgHerramientas {
+		right: 38%;
+	}
+
+	#trabajador3 {
+		right: 3%;
+	}
+
+	.imgHerramientas {
+		left: 17%;
+		height: 40%;
+	}
+
+	#trabajador4 {
+		right: -40px;
+		height: 60%;
+	}
+
+	#imgServicios {
+		left: 22%;
+	}
+
+
+	#ns {
+		margin: 0 0 0 200px;
+	}
+
+	#ei {
+		margin: 0 0 0 120px;
+	}
+
+	.about4 {
+		left: 25%;
+	}
+
+	.about5 {
+		left: 24%;
+	}
+
+	.aboutusmenu {
+		left: 0;
+	}
+
+	.mostrarProductos,
+	#catalog {
+		width: 856px;
+		margin: 90px 0 20px 5%;
+	}
+
+}
+
+@media (max-width: 1250px) {
+
+	.mostrarProductos,
+	#catalog {
+		width: 800px;
+		margin: 90px 0 20px 2%;
+	}
+
+	.prod,
+	.prodimg {
+		width: 180px;
+	}
+
+}
+
+
+@media (max-width: 1120px) {
+
+	.marquee0 {
+		right: 2%;
+		width: 370px;
+		display: block;
+	}
+
+	.circulos {
+		max-width: 812px;
+		top: 14%;
+	}
+
+	.cntcirculo {
+		width: 200px;
+		height: 230px;
+		margin: 0 0 30px 0;
+	}
+
+	.cntcirculo span {
+		width: 70%;
+		font-size: 13pt;
+	}
+
+	.imagenc {
+		height: auto;
+	}
+
+	.imagen_about1 {
+		height: 40%;
+		left: 17%;
+	}
+
+	.worker2 {
+		left: 16%;
+		height: 50%;
+	}
+
+	.imgHerramientas {
+		left: 18%;
+		height: 35%;
+	}
+
+	#trabajador3 {
+		right: 2%;
+		height: 50%;
+	}
+
+	#trabajador4 {
+		right: -80px;
+		height: 56%;
+	}
+
+	#imgServicios {
+		left: 20%;
+		height: 30%;
+	}
+
+	#contactanos {
+		font-size: 35pt;
+	}
+
+	.cntcontact form {
+		margin: 10px 0 0 0;
+	}
+
+	.cntcontact form input[type="text"] {
+		font-size: 12pt;
+		height: 40px;
+	}
+
+	#frmContactanos label {
+		font-size: 12pt;
+		height: 40px;
+		line-height: 40px;
+	}
+
+	.cntcontact form textarea {
+		font-size: 12pt;
+		height: 60px;
+	}
+
+	.cntcontact form input[type="submit"] {
+		height: 40px;
+		line-height: 40px;
+		font-size: 14pt;
+	}
+
+	.mostrarProductos,
+	#catalog {
+		width: 610px;
+		margin: 90px 0 20px 10%;
+	}
+
+	#imagenProd {
+		width: 400px;
+		height: auto;
+		margin: 0 auto;
+		display: block;
+	}
+
+	.descprod {
+		width: 400px;
+		height: auto;
+		margin: 10px auto;
+		display: block;
+	}
+
+	#Relacionados {
+		width: 500px !important;
+		margin: 0 auto;
+	}
+}
+
+
+@media (max-width: 1024px) {
+
+	header,
+	.cntheader {
+		width: 100%;
+		height: 140px;
+	}
+
+	.marquee0 {
+		width: 240px;
+		right: 6%;
+		display: block;
+	}
+
+	#menu {
+		top: 75px;
+		left: 0;
+		right: 0;
+		margin: 0 auto;
+	}
+
+	.message,
+	.messagecnt {
+		height: 160px;
+	}
+
+	.messageimage1 {
+		height: 317px;
+		bottom: 0;
+		left: 5%;
+	}
+
+	.messagetext1 {
+		top: 48px;
+		left: 330px;
+		width: 260px;
+		line-height: 30px;
+		font-size: 22pt;
+	}
+
+	.messagetext1 a,
+	.messagetext1 a:hover,
+	.messagetext1 a:active,
+	.messagetext1 a:focus {
+		font-size: 23pt;
+	}
+
+	.circulos {
+		max-width: 550px;
+		top: 18%;
+	}
+
+	.cntcirculo {
+		width: 152px;
+		height: 200px;
+		margin: 0 13px 10px 13px;
+	}
+
+	.cntcirculo span {
+		width: 90%;
+		font-size: 12pt;
+	}
+
+	.imagenc {
+		width: 152px;
+		height: auto;
+	}
+
+	.imagen_about1 {
+		top: auto;
+		bottom: 0;
+		left: 20%;
+		height: 43%;
+	}
+
+	.worker2 {
+		left: 10%;
+		height: 50%;
+	}
+
+	.imgHerramientas {
+		left: 27%;
+		top: 50%;
+		height: 30%;
+	}
+
+	#trabajador3 {
+		right: -50px;
+		height: 52%;
+	}
+
+	#trabajador4 {
+		right: -60px;
+		height: 48%;
+	}
+
+	#imgServicios {
+		left: 22%;
+		top: 38%;
+		height: 30%;
+	}
+
+	.aboutusmenu {
+		top: 18%;
+	}
+
+	.about1,
+	.about2,
+	.about3,
+	.about4,
+	.about5,
+	.about6 {
+		top: 20%;
+		left: 30%;
+		width: 550px;
+	}
+
+	.cntcontact {
+		top: 20%;
+	}
+
+	.nppls_about1,
+	#ns {
+		font-size: 23pt !important;
+		margin: 0;
+		padding: 0;
+		display: block;
+		width: 100%;
+		text-align: right;
+	}
+
+	.txtSeguridad,
+	#ei,
+	#nuestramision,
+	#nuestravision,
+	.nuestrahistoria,
+	#nuestrosservicios {
+		font-size: 46pt !important;
+		padding: 0;
+		margin: 0;
+		width: 100%;
+		display: block;
+		text-align: right;
+	}
+
+	.txtDetalle_about1,
+	#textoNosostros,
+	#textoMision,
+	.txtVision,
+	#txthistoria,
+	.txtServicios {
+		font-size: 15pt !important;
+		margin: 0 !important;
+	}
+
+	.txtRegreses {
+		font-size: 20pt !important;
+		line-height: 18px !important;
+		width: 58% !important;
+		margin: 0 0 25px 42%;
+	}
+
+	.txtDetalle_about1,
+	#textoNosostros,
+	#textoMision,
+	.txtVision,
+	#txthistoria {
+		margin: 20px 0 0 0;
+	}
+
+	.txtDetalle_about1 br,
+	#textoNosostros br,
+	#textoMision br,
+	.txtVision br,
+	#txthistoria br {
+		display: none;
+	}
+
+	footer {
+		height: 160px;
+	}
+
+	#cntfooter {
+		width: 100%;
+		height: 100%;
+		margin: 10px auto 0 auto;
+		left: 0;
+		right: 0;
+	}
+
+	.ftext {
+		width: 100%;
+		position: relative;
+		padding: 0;
+		height: auto;
+		display: block;
+		margin: 0 auto;
+		font-size: 9pt;
+		line-height: 13px;
+		text-align: center;
+		font-family: 'MyriadPro_Regular';
+	}
+
+	.pwb-white-ftr {
+		width: 180px;
+		height: 20px;
+		margin: 0 auto;
+		left: 0;
+		right: 0;
+		top: 132px;
+		font-family: 'MyriadPro_Regular';
+	}
+
+	.pwb-white-ftr label,
+	.pwb-white-ftr a {
+		position: relative;
+		display: inline-block;
+		vertical-align: top;
+		padding: 0;
+		margin: 0;
+		height: auto;
+		width: auto;
+		text-align: center;
+		font-size: 10pt;
+		line-height: 10px;
+	}
+
+	.pwb-white-ftr br {
+		display: none;
+	}
+
+	.opcionesProd {
+		position: fixed;
+		top: -920px;
+	}
+
+	#catalogo-menu:checked~.opcionesProd {
+		top: 0px;
+	}
+
+	.dropmenu {
+		display: block;
+	}
+
+	.ul-catalogo {
+		margin: 182px 0 0 0;
+	}
+
+	.list-cat {
+		height: 550px;
+		overflow-y: scroll;
+	}
+
+	.cnt-panel .ul-catalogo {
+		margin: 110px 0 0 0;
+	}
+
+	.mostrarProductos,
+	#catalog {
+		width: 750px;
+		margin: 170px auto 20px auto;
+		display: block;
+	}
+
+	.prod,
+	.prodimg {
+		width: 174px;
+	}
+}
+
+
+@media (max-width: 905px) {
+
+	.marquee0 {
+		width: 240px;
+		right: 6%;
+		display: none;
+	}
+
+	#menu {
+		top: 75px;
+		left: 0;
+		right: 0;
+		margin: 0 auto;
+	}
+
+	.message,
+	.messagecnt {
+		height: 160px;
+	}
+
+	.messageimage1 {
+		height: 317px;
+		bottom: 0;
+		left: 5%;
+	}
+
+	.messagetext1 {
+		top: 48px;
+		left: 320px;
+		width: 260px;
+		line-height: 30px;
+		font-size: 22pt;
+	}
+
+	.messagetext1 a,
+	.messagetext1 a:hover,
+	.messagetext1 a:active,
+	.messagetext1 a:focus {
+		font-size: 23pt;
+	}
+
+	.circulos {
+		max-width: 550px;
+		top: 18%;
+	}
+
+	.cntcirculo {
+		width: 152px;
+		height: 200px;
+		margin: 0 13px 10px 13px;
+	}
+
+	.cntcirculo span {
+		width: 90%;
+		font-size: 12pt;
+	}
+
+	.imagenc {
+		width: 152px;
+		height: auto;
+	}
+
+	.imagen_about1 {
+		top: auto;
+		bottom: 0;
+		left: 15%;
+		height: 45%;
+	}
+
+	.worker2 {
+		left: 10%;
+		height: 50%;
+	}
+
+	.imgHerramientas {
+		left: 27%;
+		top: 50%;
+		height: 30%;
+	}
+
+	#trabajador3 {
+		right: -50px;
+		height: 52%;
+	}
+
+	#trabajador4 {
+		right: -60px;
+		height: 38%;
+	}
+
+	#imgServicios {
+		left: 22%;
+		top: 38%;
+		height: 30%;
+	}
+
+	.aboutusmenu {
+		top: 19%;
+	}
+
+	.about1,
+	.about2,
+	.about3,
+	.about4,
+	.about5,
+	.about6 {
+		top: 20%;
+		left: 36%;
+		width: 450px;
+	}
+
+	.cntcontact {
+		top: 20%;
+	}
+
+	.nppls_about1,
+	#ns {
+		font-size: 23pt !important;
+		margin: 0;
+		padding: 0;
+		display: block;
+		width: 100%;
+		text-align: right;
+	}
+
+	.txtSeguridad,
+	#ei,
+	#nuestramision,
+	#nuestravision,
+	.nuestrahistoria,
+	#nuestrosservicios {
+		font-size: 46pt !important;
+		padding: 0;
+		margin: 0;
+		width: 100%;
+		display: block;
+		text-align: right;
+	}
+
+	.txtDetalle_about1,
+	#textoNosostros,
+	#textoMision,
+	.txtVision,
+	#txthistoria,
+	.txtServicios {
+		font-size: 14pt !important;
+		margin: 0 !important;
+	}
+
+	.txtRegreses {
+		font-size: 20pt !important;
+		line-height: 18px !important;
+		width: 58% !important;
+		margin: 0 0 25px 36%;
+	}
+
+	.txtDetalle_about1,
+	#textoNosostros,
+	#textoMision,
+	.txtVision,
+	#txthistoria {
+		margin: 20px 0 0 0;
+	}
+
+	.txtDetalle_about1 br,
+	#textoNosostros br,
+	#textoMision br,
+	.txtVision br,
+	#txthistoria br {
+		display: none;
+	}
+
+	footer {
+		height: 160px;
+	}
+
+	#cntfooter {
+		width: 100%;
+		height: 100%;
+		margin: 10px auto 0 auto;
+		left: 0;
+		right: 0;
+	}
+
+	.ftext {
+		width: 100%;
+		position: relative;
+		padding: 0;
+		height: auto;
+		display: block;
+		margin: 0 auto;
+		font-size: 9pt;
+		line-height: 13px;
+		text-align: center;
+		font-family: 'MyriadPro_Regular';
+	}
+
+	.pwb-white-ftr {
+		width: 180px;
+		height: 20px;
+		margin: 0 auto;
+		left: 0;
+		right: 0;
+		top: 132px;
+		font-family: 'MyriadPro_Regular';
+	}
+
+	.pwb-white-ftr label,
+	.pwb-white-ftr a {
+		position: relative;
+		display: inline-block;
+		vertical-align: top;
+		padding: 0;
+		margin: 0;
+		height: auto;
+		width: auto;
+		text-align: center;
+		font-size: 10pt;
+		line-height: 10px;
+	}
+
+	.pwb-white-ftr br {
+		display: none;
+	}
+
+	.opcionesProd {
+		position: fixed;
+		top: -920px;
+	}
+
+	#catalogo-menu:checked~.opcionesProd {
+		top: 0px;
+	}
+
+	.dropmenu {
+		display: block;
+	}
+
+	.ul-catalogo {
+		margin: 190px 0 0 0;
+	}
+
+	.cnt-panel .ul-catalogo {
+		margin: 110px 0 0 0;
+	}
+
+	.mostrarProductos,
+	#catalog {
+		width: 750px;
+		margin: 170px auto 20px auto;
+	}
+
+	.prod,
+	.prodimg {
+		width: 174px;
+	}
+
+}
+
+@media (max-width: 760px) {
+
+	header,
+	.cntheader {
+		width: 100%;
+		height: 70px;
+	}
+
+	.marquee0 {
+		width: 240px;
+		right: 6%;
+		display: none;
+	}
+
+	.message,
+	.messagecnt {
+		height: 80px;
+	}
+
+	.messageimage1 {
+		height: 160px;
+	}
+
+	#logo {
+		width: 180px;
+		height: auto;
+		margin: 18px 0 0 5%;
+	}
+
+	.messagetext1 {
+		width: 180px;
+		top: 21px;
+		left: 133px;
+		font-size: 11pt;
+		line-height: 20px;
+	}
+
+	.messagetext1 a,
+	.messagetext1 a:hover,
+	.messagetext1 a:active,
+	.messagetext1 a:focus {
+		font-size: 12pt;
+	}
+
+	.about1,
+	.about2,
+	.about3,
+	.about6 {
+		right: 12%;
+	}
+
+	.about4,
+	.about5 {
+		left: 12%;
+	}
+
+	.about1,
+	.about2,
+	.about3,
+	.about4,
+	.about5,
+	.about6 {
+		width: 250px;
+		left: 0;
+		right: 0;
+		margin: 0 auto;
+	}
+
+	.imagen_about1 {
+		right: 0;
+		top: 55%;
+		height: 42%;
+	}
+
+	.worker2 {
+		left: 34%;
+		height: 35%;
+	}
+
+	.imgHerramientas {
+		top: 55%;
+		left: 17%;
+		right: initial;
+		height: 25%;
+	}
+
+	#trabajador3 {
+		right: 0%;
+		height: 40%;
+	}
+
+	#trabajador4 {
+		right: -30px;
+		height: 40%;
+	}
+
+	#imgServicios {
+		top: 47%;
+		left: 15%;
+		height: 23%;
+	}
+
+	.nppls_about1,
+	#ns {
+		font-size: 13pt !important;
+		margin: 0;
+		padding: 0;
+		display: block;
+		width: 100%;
+		text-align: right;
+	}
+
+	.txtSeguridad,
+	#ei,
+	#nuestramision,
+	#nuestravision,
+	.nuestrahistoria,
+	#nuestrosservicios {
+		font-size: 26pt !important;
+		padding: 0;
+		margin: 0;
+		width: 100%;
+		display: block;
+		text-align: right;
+	}
+
+	.txtDetalle_about1,
+	#textoNosostros,
+	#textoMision,
+	.txtVision,
+	#txthistoria,
+	.txtServicios {
+		font-size: 10pt !important;
+		margin: 0 !important;
+	}
+
+	.txtRegreses {
+		font-size: 14pt !important;
+		line-height: 18px !important;
+		width: 100% !important;
+		margin: 0;
+		display: none;
+	}
+
+	.txtDetalle_about1,
+	#textoNosostros,
+	#textoMision,
+	.txtVision,
+	#txthistoria {
+		margin: 20px 0 0 0;
+	}
+
+	.txtDetalle_about1 br,
+	#textoNosostros br,
+	#textoMision br,
+	.txtVision br,
+	#txthistoria br {
+		display: none;
+	}
+
+	#contactanos {
+		font-size: 26pt !important;
+	}
+
+	.socialnet,
+	.aboutusmenu {
+		display: none;
+	}
+
+	.menu {
+		display: block;
+	}
+
+	.msjeVerCatalogo {
+		font-size: 9pt;
+		line-height: 12px;
+		height: 28px;
+		width: 120px;
+		padding: 5px 0 0 0;
+		left: 0;
+	}
+
+	.circulos {
+		max-width: 305px !important;
+		top: 15% !important;
+	}
+
+	.cntcirculo {
+		width: 93px;
+		height: 150px;
+		margin: 0 2px;
+	}
+
+	.cntcirculo span {
+		width: 100%;
+		font-size: 10pt;
+	}
+
+	.imagenc {
+		width: 100px;
+		height: auto;
+	}
+
+	#menu {
+		width: 250px;
+		padding: 16px 0 16px 0;
+		height: 137px;
+		list-style: none;
+		display: inline-block;
+		position: absolute;
+		margin: 0;
+		top: 70px;
+		right: -250px;
+		left: initial;
+		background-color: #ff7230;
+		transition: all 0.5s ease;
+	}
+
+	#togglemenu:checked~#menu {
+		right: 0;
+	}
+
+	#cntmenu {
+		width: 250px;
+		height: auto;
+		position: absolute;
+		right: 1px;
+		top: 0;
+	}
+
+
+	.menuitem1 {
+		width: 100%;
+		padding: 0;
+		z-index: 400 !important;
+	}
+
+	.menuitem1 a {
+		text-align: center;
+		padding: 0;
+		width: 100%;
+		margin: 0 !important;
+	}
+
+	.menuitem2 {
+		margin: 0 !important;
+		width: 100%;
+	}
+
+	.menuitem3 {
+		margin: 0 !important;
+		width: 100%;
+	}
+
+	.menuitem2 a,
+	.menuitem3 a {
+		padding: 0;
+		text-align: center;
+	}
+
+
+	#menu li a {
+		position: relative;
+		display: block;
+		width: auto;
+		height: 30px;
+		color: #FFF;
+		cursor: pointer;
+		line-height: 30px !important;
+		font-family: 'MyriadPro_SemiBold';
+		font-weight: normal;
+		font-size: 1.1em;
+		text-transform: uppercase;
+		font-style: normal;
+		text-decoration: none;
+	}
+
+	#menu li {
+		position: relative;
+		display: inline-block;
+		top: 0;
+		margin: 0;
+		padding: 0;
+		float: none;
+		width: 100%;
+		color: #ff3296;
+	}
+
+	#menu li:after {
+		display: none;
+	}
+
+
+	#menu .active {
+		border-bottom: 0;
+		z-index: 999;
+	}
+
+	#menu .active a {
+		font-size: 1.2em !important;
+		color: #FFF !important;
+	}
+
+	.cntcontact {
+		width: 380px;
+		position: absolute;
+		left: 0;
+		right: 0;
+		top: 15%;
+		margin: 0 auto;
+	}
+
+	.cntcontact form input[type="text"] {
+		font-size: 10pt !important;
+		height: 40px;
+		width: 240px;
+	}
+
+	#frmContactanos label {
+		font-size: 8pt !important;
+		height: 40px;
+		width: 120px;
+		line-height: 12px;
+		padding: 12px 0 0 10px;
+		text-align: left;
+	}
+
+	.cntcontact form textarea {
+		font-size: 10pt !important;
+		height: 60px;
+		width: 240px;
+	}
+
+	.cntcontact form input[type="submit"] {
+		height: 40px;
+		line-height: 40px;
+		font-size: 14pt;
+		margin: 10px 0 0 133px;
+		width: 240px;
+	}
+
+	.opcionesProd {
+		position: fixed;
+		top: -920px;
+	}
+
+	#catalogo-menu:checked~.opcionesProd {
+		top: 0px;
+	}
+
+	.dropmenu {
+		display: block;
+		top: 75px;
+	}
+
+	.ul-catalogo {
+		margin: 115px 0 0 0;
+	}
+
+	.list-cat {
+		height: 320px;
+	}
+
+	.mostrarProductos,
+	#catalog {
+		width: 280px;
+		margin: 140px auto 20px auto;
+	}
+
+	.prod,
+	.prodimg {
+		width: 130px;
+		margin: 0 6px 6px 0;
+	}
+
+	#imagenProd {
+		width: 280px;
+	}
+
+	.descprod {
+		width: 280px;
+	}
+
+	#Relacionados {
+		display: none;
+	}
+
+}
+
+@media(max-width: 320px) {
+	.imagenc {
+		width: 88px;
+		height: auto;
+	}
+}
+
+@media (max-width: 380px) {
+	.imagenc {
+		width: 100px;
+		height: auto;
+	}
+
+	.cntcirculo {
+		width: 98px !important;
+		height: 150px;
+		margin: 0 2px;
+	}
+
+	.circulos {
+		max-width: 315px !important;
+		top: 15% !important;
+	}
+}
+
+@media (max-width: 430px) {
+	.imagenc {
+		width: 105px;
+		height: auto;
+	}
+
+	.cntcirculo {
+		width: 117px !important;
+		height: 150px;
+		margin: 0 2px;
+	}
+
+	.circulos {
+		max-width: 373px !important;
+		top: 15% !important;
+
+	}
+}
+
+
+@media (max-height: 768px) {
+
+	.circulos {
+		top: 19% !important;
+	}
+
+	.nppls_about1,
+	#ns {
+		font-size: 26pt;
+	}
+
+	.txtSeguridad,
+	#ei,
+	#nuestramision,
+	#nuestravision,
+	.nuestrahistoria,
+	#nuestrosservicios {
+		font-size: 52pt;
+	}
+
+	.txtDetalle_about1,
+	#textoNosostros,
+	#textoMision,
+	.txtVision,
+	#txthistoria,
+	.txtServicios {
+		font-size: 16pt;
+	}
+
+	.txtRegreses {
+		font-size: 21pt;
+		line-height: 26px;
+		width: 55%;
+	}
+
+	.txtDetalle_about1,
+	#textoNosostros,
+	#textoMision,
+	.txtVision,
+	#txthistoria {
+		margin: 20px 0 0 0;
+	}
+
+	.aboutusmenu {
+		top: 20%;
+	}
+
+	#contactanos {
+		font-size: 30pt;
+	}
+
+}
+
+@media (max-height: 650px) {
+
+	.txtDetalle_about1,
+	#textoNosostros,
+	#textoMision,
+	.txtVision,
+	#txthistoria,
+	.txtServicios {
+		font-size: 14pt;
+	}
+
+	.imagenc {
+		height: auto;
+	}
+
+	#contactanos {
+		font-size: 35pt;
+	}
+
+	.cntcontact form {
+		margin: 10px 0 0 0;
+	}
+
+	.cntcontact form input[type="text"] {
+		font-size: 12pt;
+		height: 40px;
+	}
+
+	#frmContactanos label {
+		font-size: 12pt;
+		height: 40px;
+		line-height: 40px;
+	}
+
+	.cntcontact form textarea {
+		font-size: 12pt;
+		height: 60px;
+	}
+
+	.cntcontact form input[type="submit"] {
+		height: 40px;
+		line-height: 40px;
+		font-size: 14pt;
+	}
+
+}
+
+
+
+@media (max-height: 550px) {
+
+	.message,
+	.messagecnt {
+		height: 80px;
+	}
+
+	.messageimage1 {
+		height: 160px;
+	}
+
+	#logo {
+		width: 180px;
+		height: auto;
+		margin: 18px 0 0 5%;
+	}
+
+	.messagetext1 {
+		width: 180px;
+		top: 21px;
+		left: 128px;
+		font-size: 11pt;
+		line-height: 20px;
+	}
+
+	.messagetext1 a,
+	.messagetext1 a:hover,
+	.messagetext1 a:active,
+	.messagetext1 a:focus {
+		font-size: 12pt;
+	}
+
+	.about1,
+	.about2,
+	.about3,
+	.about4,
+	.about5,
+	.about6 {
+		width: 250px;
+		left: 0;
+		right: 0;
+		top: 22% !important;
+		margin: 0 auto;
+	}
+
+	.marquee0 {
+		width: 205px;
+		top: 12px;
+	}
+
+	.imagen_about1 {
+		left: 40%;
+		right: initial;
+		top: 72%;
+		height: 25%;
+	}
+
+	.worker2 {
+		left: 40%;
+		height: 22%;
+	}
+
+	.imgHerramientas {
+		top: 68%;
+		left: 30%;
+		right: initial;
+		height: 28%;
+	}
+
+	#trabajador3 {
+		right: 10%;
+		height: 40%;
+	}
+
+	#trabajador4 {
+		right: -20px;
+		height: 35%;
+	}
+
+	#imgServicios {
+		top: 47%;
+		left: 20%;
+		height: 35%;
+	}
+
+	.nppls_about1,
+	#ns {
+		font-size: 13pt !important;
+		margin: 0;
+		padding: 0;
+		display: block;
+		width: 100%;
+		text-align: right;
+	}
+
+	.txtSeguridad,
+	#ei,
+	#nuestramision,
+	#nuestravision,
+	.nuestrahistoria,
+	#nuestrosservicios {
+		font-size: 22pt !important;
+		padding: 0;
+		margin: 0;
+		width: 100%;
+		display: block;
+		text-align: right;
+	}
+
+	.txtDetalle_about1,
+	#textoNosostros,
+	#textoMision,
+	.txtVision,
+	#txthistoria,
+	.txtServicios {
+		font-size: 10pt !important;
+		margin: 0 !important;
+	}
+
+	.txtRegreses {
+		font-size: 14pt !important;
+		line-height: 18px !important;
+		width: 100% !important;
+		margin: 0;
+		display: none;
+	}
+
+	.txtDetalle_about1,
+	#textoNosostros,
+	#textoMision,
+	.txtVision,
+	#txthistoria {
+		margin: 20px 0 0 0;
+	}
+
+	.txtDetalle_about1 br,
+	#textoNosostros br,
+	#textoMision br,
+	.txtVision br,
+	#txthistoria br {
+		display: none;
+	}
+
+	.about1 br,
+	.about2 br,
+	.about3 br,
+	.about4 br,
+	.about5 br,
+	.about6 br {
+		display: none;
+	}
+
+	#contactanos {
+		font-size: 26pt !important;
+	}
+
+	.socialnet,
+	.aboutusmenu {
+		display: none;
+	}
+
+	.menu {
+		display: block;
+	}
+
+	.msjeVerCatalogo {
+		font-size: 9pt;
+		line-height: 12px;
+		height: 28px;
+		width: 120px;
+		padding: 5px 0 0 0;
+		left: 0;
+	}
+
+	.circulos {
+		max-width: 305px !important;
+		top: 23% !important;
+	}
+
+	.cntcirculo {
+		width: 67px;
+		height: 120px;
+		margin: 0 2px;
+	}
+
+	.cntcirculo span {
+		width: 100%;
+		font-size: 8pt;
+	}
+
+	.imagenc {
+		width: 67px;
+		height: auto;
+	}
+
+	.cntcontact {
+		width: 300px;
+		position: absolute;
+		left: 0;
+		right: 0;
+		top: 21%;
+		margin: 0 auto;
+	}
+
+	.cntcontact form input[type="text"] {
+		font-size: 9pt !important;
+		height: 30px;
+		width: 152px;
+	}
+
+	#frmContactanos label {
+		font-size: 8pt !important;
+		height: 30px;
+		width: 120px;
+		line-height: 12px;
+		padding: 10px 0 0 10px;
+		text-align: left;
+	}
+
+	.cntcontact form textarea {
+		font-size: 10pt !important;
+		height: 25px;
+		line-height: 25px;
+		width: 141px;
+	}
+
+	.cntcontact form input[type="submit"] {
+		height: 30px;
+		line-height: 30px;
+		font-size: 14pt;
+		margin: 5px 0 0 130px;
+		width: 164px;
+	}
+
+	.opcionesProd {
+		position: fixed;
+		top: -920px;
+	}
+
+	#catalogo-menu:checked~.opcionesProd {
+		top: 0px;
+	}
+
+	.dropmenu {
+		display: block;
+		top: 75px;
+	}
+
+	.ul-catalogo {
+		margin: 115px 0 0 0;
+	}
+
+	.list-cat {
+		height: 320px;
+	}
+
+	.mostrarProductos,
+	#catalog {
+		width: 280px;
+		display: block;
+		margin: 140px auto 20px auto;
+	}
+
+	.prod,
+	.prodimg {
+		width: 130px;
+		margin: 0 6px 6px 0;
+	}
+
+	#imagenProd {
+		width: 280px;
+	}
+
+	.descprod {
+		width: 280px;
+	}
+
+	#Relacionados {
+		display: none;
+	}
+
+	.seemap {
+		font-size: 14pt;
+		bottom: 1%;
+	}
+
+	.seemap i {
+		font-size: 70pt;
+	}
+
+}
