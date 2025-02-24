@@ -1076,7 +1076,7 @@ header {
 }
 
 .socialnet-2 {
-	display: flex;
+	display: none;
 	position: absolute;
 	margin-top: 20px;
 	width: 250px;

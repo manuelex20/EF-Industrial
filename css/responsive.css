@@ -734,6 +734,9 @@
 }
 
 @media (max-width: 760px) {
+	.socialnet-2 {
+		display: flex;
+	}
 
 	header,
 	.cntheader {
@@ -1123,6 +1126,10 @@
 }
 
 @media(max-width: 320px) {
+	.socialnet-2 {
+		display: flex;
+	}
+
 	.imagenc {
 		width: 88px;
 		height: auto;
@@ -1130,6 +1137,10 @@
 }
 
 @media (max-width: 380px) {
+	.socialnet-2 {
+		display: flex;
+	}
+
 	.imagenc {
 		width: 100px;
 		height: auto;
@@ -1148,6 +1159,10 @@
 }
 
 @media (max-width: 430px) {
+	.socialnet-2 {
+		display: flex;
+	}
+
 	.imagenc {
 		width: 105px;
 		height: auto;
@@ -1168,6 +1183,9 @@
 
 
 @media (max-height: 768px) {
+	.socialnet-2 {
+		display: flex;
+	}
 
 	.circulos {
 		top: 19% !important;
@@ -1221,6 +1239,9 @@
 }
 
 @media (max-height: 650px) {
+	.socialnet-2 {
+		display: flex;
+	}
 
 	.txtDetalle_about1,
 	#textoNosostros,
@@ -1270,6 +1291,9 @@
 
 
 @media (max-height: 550px) {
+	.socialnet-2 {
+		display: flex;
+	}
 
 	.message,
 	.messagecnt {
